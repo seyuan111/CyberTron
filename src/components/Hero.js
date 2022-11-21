@@ -10,6 +10,7 @@ const Hero = () => {
           <p className="md:text-xl sm:text-xl text-xl font-bold">This is the cybersecurity website for hackers</p>
         </div>
         <p className="md:2xl text-xl font-bold text-gray-500">CyberTron will turn all beginning hackers to advanced hackers. We offer courses that are beginner friendly.</p>
+        <button className="bg-blue-300 w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black">Get Started</button>
       </div>
     </div>
   )
